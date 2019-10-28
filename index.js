@@ -81,4 +81,4 @@ let calculatePayroll = function(arrayOfEmployeeRecords){
         return memo + allWagesFor(rec)
     }, 0)
 }
-© 2019 GitHub, Inc.
+
